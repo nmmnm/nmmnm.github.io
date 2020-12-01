@@ -1,15 +1,14 @@
-## 最新地址
+## 最新地址   
+**1站**   
+https://www.nmmnm.co   
+**2站**
+https://www.bilibilipy.net   
+*本页面仅用于通知，请不要给我们提issues,将无法得到解答，如果您有需要，请给我们发送邮件或通过客服群联系我们，谢谢。*  
+当我们进行维护时，我们同样会在本页面告知您   
+目前状态：`正常运行`
 
-[1站](https://www.nmmnm.co)
 
 
-https://www.nmmnm.co
-
-
-[2站](https://www.bilibilipy.net)
-
-
-https://www.bilibilipy.net
 
 
 
